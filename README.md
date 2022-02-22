@@ -1,4 +1,4 @@
-<h1 align="center">Terminal-Pacman</h1>
+<h1 align="center">Terminal Pacman</h1>
 
 <div align="center">
   <a href="https://github.com/MartinGurasvili/Calculator">
