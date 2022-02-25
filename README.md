@@ -1,9 +1,7 @@
 <h1 align="center">Terminal Pacman</h1>
 
 <div align="center">
-  <a href="https://github.com/MartinGurasvili/Calculator">
     <img width="200" height="200" alt="cas" src="https://user-images.githubusercontent.com/76784461/155037020-15e1a5d9-5a13-4938-97ca-fc744ea13d68.png">
-  </a>
 
 
 
